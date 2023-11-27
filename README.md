@@ -1,1 +1,2 @@
-# Amazon-clone-Codesandbox
+# amazon-clone
+Created with CodeSandbox
